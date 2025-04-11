@@ -16,4 +16,4 @@ Welcome! This repo tracks my progress in:
 ###  NDG Linux Unhatched
 - Important of linux
 - Terminal navigation
-v
+
