@@ -11,7 +11,7 @@ A basic understanding of the terminal is **essential** for diagnosing and fixing
 
 ---
 
-## What Is a Command?
+## What is a Command?
 
 A **command** is a program or script that, when executed on the command line, performs an action on the system. It runs a process that:
 - Takes input
