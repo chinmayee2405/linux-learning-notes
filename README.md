@@ -1,3 +1,4 @@
+
 #  My Linux Learning Journey
 
 Welcome! This repo tracks my progress in:
@@ -16,4 +17,5 @@ Welcome! This repo tracks my progress in:
 ###  NDG Linux Unhatched
 - Important of linux
 - Terminal navigation
+- Navigating Command
 
