@@ -18,5 +18,5 @@ Welcome! This repo tracks my progress in:
 - Important of linux
 - Terminal navigation
 - Navigating  Basic Command
-- pwd,cd,ls-Detail Explantion
+- pwd,cd,ls  - Detail Explantion
 
